@@ -2,9 +2,9 @@
 <h3 align="center">A passionate CSE student from Bangladesh</h3>
 <img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=auntu4672&label=Profile%20views&color=0e75b6&style=flat" alt="Auntu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimalaminauntu&label=Profile%20views&color=0e75b6&style=flat" alt="Auntu" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=auntu4672" alt="Auntu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahimalaminauntu" alt="Auntu" /></a> </p>
 
 - 🌱 I’m currently learning **Java programming language**
 
