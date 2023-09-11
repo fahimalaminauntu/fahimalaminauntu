@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahim Al-Amin Auntu</h1>
 <h3 align="center">A passionate CSE student from Bangladesh</h3>
-https://github.com/fahimalaminauntu/fahimalaminauntu/assets/123312309/e32e2a32-84e3-4a26-9167-f83465c7550e
-
+<img align="center" alt="coding" width="" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimalaminauntu&label=Profile%20views&color=0e75b6&style=flat" alt="Auntu" /> </p>
 
