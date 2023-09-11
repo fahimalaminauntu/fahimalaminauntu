@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahim Al-Amin Auntu</h1>
 <h3 align="center">A passionate CSE student from Bangladesh</h3>
-<img align="center" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+![Blue   White Futuristic Gaming Youtube Thumbnail](https://github.com/fahimalaminauntu/fahimalaminauntu/assets/123312309/e32e2a32-84e3-4a26-9167-f83465c7550e)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimalaminauntu&label=Profile%20views&color=0e75b6&style=flat" alt="Auntu" /> </p>
 
