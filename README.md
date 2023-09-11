@@ -2,7 +2,8 @@
 <h3 align="center">A passionate CSE student from Bangladesh</h3>
 <img align="center" alt="coding" width="" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimalaminauntu&label=Profile%20views&color=0e75b6&style=flat" alt="Auntu" /> </p>
+<p align="left"> <img src="https://github.com/fahimalaminauntu/fahimalaminauntu/assets/123312309/29f122d7-a72e-4fb4-82f6-c2e888ddaf24
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahimalaminauntu" alt="Auntu" /></a> </p>
 
