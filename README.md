@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fahim Al-Amin Auntu</h1>
 <h3 align="center">A passionate CSE student from Bangladesh</h3>
-<img align="center" alt="coding" width=""https://github.com/fahimalaminauntu/fahimalaminauntu/assets/123312309/29f122d7-a72e-4fb4-82f6-c2e888ddaf24"</p>
+<img style="display: block;margin: 0 auto;"width="850px" height="500px"src="https://github.com/fahimalaminauntu/fahimalaminauntu/assets/123312309/29f122d7-a72e-4fb4-82f6-c2e888ddaf24" alt="Image" </p>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahimalaminauntu" alt="Auntu" /></a> </p>
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Java programming language**
 
 - 📫 How to reach me **fahim15-4672@diu.edu.bd**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimalaminauntu&label=Profile%20views&color=0e75b6&style=flat" alt="fahimalaminauntu" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@auntu_al" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@auntu_al" height="30" width="40" /></a>
