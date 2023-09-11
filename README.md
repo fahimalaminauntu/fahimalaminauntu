@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahim Al-Amin Auntu</h1>
 <h3 align="center">A passionate CSE student from Bangladesh</h3>
-<img align="center" alt="coding" width=""https://github.com/fahimalaminauntu/fahimalaminauntu/assets/123312309/29f122d7-a72e-4fb4-82f6-c2e888ddaf24"
->
+<img align="center" alt="coding" width=""https://github.com/fahimalaminauntu/fahimalaminauntu/assets/123312309/29f122d7-a72e-4fb4-82f6-c2e888ddaf24"</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahimalaminauntu" alt="Auntu" /></a> </p>
 
