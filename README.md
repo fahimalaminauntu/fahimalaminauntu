@@ -22,9 +22,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+## GitHub Trophies :
+<img src="https://github-profile-trophy.vercel.app/?username=fahimalaminauntu&theme=onestar&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahimalaminauntu" alt="Auntu" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimalaminauntu&show_icons=true&locale=en&layout=compact" alt="Auntu" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahimalaminauntu&show_icons=true&locale=en" alt="Auntu" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimalaminauntu&" alt="Auntu" /></p>
+## GitHub Stats :
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fahimalaminauntu&theme=midnight-purple&hide_show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimalaminauntu&theme=midnight-purple" align="center"  alt="Auntu" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimalaminauntu&theme=midnight-purple&layout=compact" alt="Top Languages" /></p>
